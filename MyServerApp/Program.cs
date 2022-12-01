@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
-
+builder.Services.AddSingleton<List<MyBogus.Person>>(i => MyBogus.Person.GetBokusPeople(25));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
