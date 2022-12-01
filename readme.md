@@ -5,7 +5,7 @@
 - SDK: https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 - Awesome Blazor (links): https://github.com/AdrienTorris/awesome-blazor
 
-## dotnet new
+## dotnet ...
 
 ```
 dotnet -v
