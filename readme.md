@@ -5,6 +5,7 @@
 - SDK: https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 - Awesome Blazor (links): https://github.com/AdrienTorris/awesome-blazor
 - VS Code: https://code.visualstudio.com/
+- Awesome WASM: https://github.com/mbasso/awesome-wasm
 
 ## dotnet ...
 
